@@ -1,0 +1,102 @@
+crop,split,class,image_count
+banana,,Bacterial_Soft_Rot,1078
+banana,,Black_Sigatoka,474
+banana,,Healthy,1584
+banana,,Panama_Disease,102
+banana,,Yellow_Sigatoka,264
+chilli,,Bacterial Spot,156
+chilli,,Cercospora Leaf Spot,180
+chilli,,Curl Virus,423
+chilli,,Healthy Leaf,458
+chilli,,White spot,195
+cotton,,Bacterial Blight,250
+cotton,,Curl Virus,431
+cotton,,Healthy Leaf,257
+grape,,Black rot,808
+grape,,esca,888
+grape,,healthy,1109
+grape,,leaf blight,672
+groundnut,,ALTERNARIA LEAF SPOT,450
+groundnut,,HEALTHY,600
+groundnut,,LEAF SPOT (EARLY AND LATE),450
+groundnut,,ROSETTE,100
+groundnut,,RUST,120
+maize,,healthy_maize,211
+maize,,Maize leaf spot,1261
+maize,,Maize streak virus,1004
+mango,test,Bacterial_blackspot,75
+mango,test,die_back,75
+mango,test,Healthy,75
+mango,test,sootymould,75
+mango,train,Bacterial_blackspot,350
+mango,train,die_back,350
+mango,train,Healthy,350
+mango,train,sootymould,350
+mango,val,Bacterial_blackspot,75
+mango,val,die_back,75
+mango,val,Healthy,75
+mango,val,sootymould,75
+okra,Testing,Alternaria_Leaf_Spot,25
+okra,Testing,Cercospora_Leaf_Spot,25
+okra,Testing,Downy_Mildew,25
+okra,Testing,Healthy,25
+okra,Testing,Leaf_Curly_Virus,25
+okra,Testing,Phyllosticta_Leaf_Spot,25
+okra,Training,Alternaria_Leaf_Spot,246
+okra,Training,Cercospora_Leaf_Spot,150
+okra,Training,Downy_Mildew,151
+okra,Training,Healthy,251
+okra,Training,Leaf_Curly_Virus,151
+okra,Training,Phyllosticta_Leaf_Spot,160
+okra,Validation,Alternaria_Leaf_Spot,50
+okra,Validation,Cercospora_Leaf_Spot,37
+okra,Validation,Downy_Mildew,38
+okra,Validation,Healthy,37
+okra,Validation,Leaf_Curly_Virus,37
+okra,Validation,Phyllosticta_Leaf_Spot,37
+paddy_doctor,,bacterial_leaf_blight,479
+paddy_doctor,,bacterial_leaf_streak,380
+paddy_doctor,,bacterial_panicle_blight,337
+paddy_doctor,,blast,1738
+paddy_doctor,,brown_spot,965
+paddy_doctor,,downy_mildew,620
+paddy_doctor,,normal,1764
+paddy_doctor,,tungro,1088
+pigeon_pea,,Healthy,196
+pigeon_pea,,Leaf_Spot,336
+pigeon_pea,,Sterilic_mosaic,292
+potato,,EB,4803
+potato,,Healthy,4600
+potato,,LB,6116
+soybean,,Bacterial Blight,99
+soybean,,Cercospora Leaf Blight,99
+soybean,,Healthy,97
+soybean,,Rust,99
+soybean,,Sudden Death Syndrome,105
+sugarcane,,Healthy,522
+sugarcane,,Mosaic,462
+sugarcane,,RedRot,518
+sugarcane,,Rust,514
+sugarcane,,Yellow,505
+tomato,test,Early_blight,50
+tomato,test,Healthy,22
+tomato,test,Late_blight,92
+tomato,test,Spotted Wilt Virus,53
+tomato,train,Early_blight,347
+tomato,train,Healthy,151
+tomato,train,Late_blight,632
+tomato,train,Spotted Wilt Virus,361
+tomato,val,Early_blight,99
+tomato,val,Healthy,43
+tomato,val,Late_blight,180
+tomato,val,Spotted Wilt Virus,103
+turmeric,,Aphids_Disease,221
+turmeric,,Blotch,238
+turmeric,,Healthy,213
+turmeric,,Leaf_Spot,193
+wheat,test,Healthy,74
+wheat,test,Leaf_Rust,55
+wheat,train,Healthy,343
+wheat,train,Leaf_Rust,258
+wheat,val,Healthy,74
+wheat,val,Leaf_Rust,55
